@@ -1,0 +1,31 @@
+.home{
+  background: url("http://widewallpaper.info/wp-content/uploads/2016/03/Game-of-thrones-Wallpaper-27.jpg");
+  height: 1020px;
+  background-position: center;
+  background-size: cover; 
+}
+
+.box{
+  margin-top:200px;
+  background-color: rgba(255, 255, 255, 0.5); 
+  padding: 40px 40px;
+  font-size: 30px;
+  font-family: Courier New;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#getQuote {
+  margin-top: 20px;
+  padding: 10px 19px;
+  font-size: 17px;
+}
+
+#by{
+  text-align:right;
+}
+
+#tweet{
+  height: 40px;
+  margin-bottom: -20px;
+}
